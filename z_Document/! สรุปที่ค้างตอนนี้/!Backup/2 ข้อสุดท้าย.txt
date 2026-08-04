@@ -1,0 +1,2 @@
+1. ทำ Delete Select All ตรงเมนู Product
+2. Product Photo ทำ Update ตรงที่อัพรูปไปแล้ว

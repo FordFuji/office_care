@@ -1,0 +1,17 @@
+{
+    "thsarabunnew": {
+        "normal": "G:\\xampp_7427\\htdocs\\office_care\\storage\\fonts\/thsarabunnew_normal_0c217cfc13eab3992bdd73502feaaf87",
+        "bold": "thsarabunnew_bold_3a2c1f5128a705210203c2445d635b09",
+        "italic": "G:\\xampp_7427\\htdocs\\office_care\\storage\\fonts\/thsarabunnew_italic_13b5fdc5fba1a88cf3f3d06b9a8c12d7"
+    },
+    "prompt": {
+        "normal": "G:\\xampp_7427\\htdocs\\office_care\\storage\\fonts\/prompt_normal_5fcbe021cc5a2bf092daf45980bb3dd6",
+        "500": "G:\\xampp_7427\\htdocs\\office_care\\storage\\fonts\/prompt_500_635ff79d70a496239c2b01343ec98133",
+        "bold": "prompt_bold_743e1a1e71149ac63320dfd1fdc4e649"
+    },
+    "roboto": {
+        "normal": "G:\\xampp_7427\\htdocs\\office_care\\storage\\fonts\/roboto_normal_b57199175d1430a961cdbce0d28f4b3e",
+        "500": "G:\\xampp_7427\\htdocs\\office_care\\storage\\fonts\/roboto_500_c3534f10ac15d227533d4683a1fe5baf",
+        "bold": "roboto_bold_3319c9778c2c148e1927aa9afd2cc661"
+    }
+}
