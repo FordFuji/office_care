@@ -1,4 +1,0 @@
-Officecare ตรง Paginator มี
-หน้า Search มีจำนวนหน้าให้เลือก 36 หน้า ถ้า Search กระดาษ
-หน้า Product Sub มี Bug อยู่เลือกแบรนด์ แล้วสินค้าไม่ออกมา
-หน้า Product น่าจะ OK แล้ว 
